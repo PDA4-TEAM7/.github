@@ -1,5 +1,6 @@
 # Egg Guard(에그 가드)
 
+## 시연영상 👉🏻 [Click!](https://youtu.be/VVW5W62DMWA)
 ## 📅 프로젝트 개요
 
 💵 **기간**
